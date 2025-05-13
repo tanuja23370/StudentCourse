@@ -1,5 +1,3 @@
-package Prgm4StudCourse;
-
 import java.util.*;
 
 class Course {
